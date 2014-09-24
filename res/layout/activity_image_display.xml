@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.codepath.vvalluri.imagesearch.activities.ImageDisplayActivity" >
+
+	 <com.ortiz.touch.TouchImageView
+        android:id="@+id/ivImageResult"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="Detail Image"
+        android:scaleType="matrix"
+        android:adjustViewBounds="true"
+        android:src="@drawable/ic_launcher" />
+
+</RelativeLayout>
