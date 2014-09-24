@@ -14,7 +14,7 @@ User stories Completed:
    - Color filter (black, blue, brown, gray, green, etc...)
    - Type (faces, photo, clip art, line art)
    - Site (espn.com)
-   - 
+   
 4. Subsequent searches have any filters applied to the search results
 
 5. User can click on any image in results to see the image full-screen
@@ -32,3 +32,5 @@ The following advanced user stories are also completed:
 7. Bonus: User can zoom or pan images displayed in full-screen detail view. This i could test on device but emulator has some issues.
 
 GIF walkthrough:
+
+![alt tag](https://github.com/vvalluri/googleimagesearch/blob/master/codepath-googleimagesearch-1.gif)
