@@ -31,6 +31,17 @@ The following advanced user stories are also completed:
 6. Bonus: Used StaggeredGridView to display improve the grid of image results. STill playing with image size ratios
 7. Bonus: User can zoom or pan images displayed in full-screen detail view. This i could test on device but emulator has some issues.
 
+
+=================
+Updated User story
+ - Added staggerred images to the grid display
+ 
+New GIF walkthrough
+![alt tag](https://github.com/vvalluri/googleimagesearch/blob/master/codepath-googleimagesearch-3.gif)
+
+=================
+
+
 GIF walkthrough:
 
 ![alt tag](https://github.com/vvalluri/googleimagesearch/blob/master/codepath-googleimagesearch-1.gif)
